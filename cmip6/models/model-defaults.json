@@ -1,0 +1,28 @@
+{
+    "ciesm": {
+        "aerosol": {
+            "initializedFrom": "", 
+            "name": ""
+        }, 
+        "atmos": {
+            "initializedFrom": "", 
+            "name": ""
+        }, 
+        "atmoschem": {
+            "initializedFrom": "", 
+            "name": ""
+        }, 
+        "land": {
+            "initializedFrom": "", 
+            "name": ""
+        }, 
+        "ocean": {
+            "initializedFrom": "", 
+            "name": ""
+        }, 
+        "seaice": {
+            "initializedFrom": "", 
+            "name": ""
+        }
+    }
+}
