@@ -1,0 +1,25 @@
+{
+    "ciesm": {
+        "aerosol": {
+            "initializedFrom": ""
+        }, 
+        "atmos": {
+            "initializedFrom": ""
+        }, 
+        "atmoschem": {
+            "initializedFrom": ""
+        }, 
+        "land": {
+            "initializedFrom": ""
+        }, 
+        "ocean": {
+            "initializedFrom": ""
+        }, 
+        "seaice": {
+            "initializedFrom": ""
+        }, 
+        "toplevel": {
+            "initializedFrom": ""
+        }
+    }
+}
